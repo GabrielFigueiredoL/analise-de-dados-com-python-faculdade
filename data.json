@@ -1,0 +1,380 @@
+{
+  "data": [
+    {
+      "id": "a8067665-787e-4aff-96a3-a91d238b1be4",
+      "clientName": "Juliana",
+      "clientContact": "61000000000",
+      "localName": "Aguas Claras",
+      "localCep": "00000000",
+      "selectedDate": "05/11/2022",
+      "selectedItems": [
+        {
+          "qtd": "2",
+          "item": {
+            "id": 11,
+            "name": "Tapete de atividades",
+            "value": 30
+          }
+        }
+      ],
+      "totalValue": 60,
+      "discount": "",
+      "freightage": "",
+      "isDelivered": false,
+      "finalValue": 60,
+      "todayDate": "30/10/2023"
+    },
+    {
+      "id": "a8067665-787e-4aff-96a3-a91d238b1be4",
+      "clientName": "Juliana",
+      "clientContact": "61000000000",
+      "localName": "Aguas Claras",
+      "localCep": "00000000",
+      "selectedDate": "05/11/2023",
+      "selectedItems": [
+        {
+          "qtd": "2",
+          "item": {
+            "id": 11,
+            "name": "Tapete de atividades",
+            "value": 30
+          }
+        }
+      ],
+      "totalValue": 60,
+      "discount": "",
+      "freightage": "",
+      "isDelivered": false,
+      "finalValue": 60,
+      "todayDate": "30/10/2023"
+    },
+    {
+      "id": "a8067665-787e-4aff-96a3-a91d238b1be4",
+      "clientName": "Juliana",
+      "clientContact": "61000000000",
+      "localName": "Aguas Claras",
+      "localCep": "00000000",
+      "selectedDate": "10/01/2024",
+      "selectedItems": [
+        {
+          "qtd": "1",
+          "item": {
+            "id": 11,
+            "name": "Tapete de atividades",
+            "value": 30
+          }
+        }
+      ],
+      "totalValue": 60,
+      "discount": "",
+      "freightage": "",
+      "isDelivered": false,
+      "finalValue": 60,
+      "todayDate": "10/01/2024"
+    },
+    {
+      "id": "a8067665-787e-4aff-96a3-a91d238b1be4",
+      "clientName": "Juliana",
+      "clientContact": "61000000000",
+      "localName": "Aguas Claras",
+      "localCep": "00000000",
+      "selectedDate": "05/12/2023",
+      "selectedItems": [
+        {
+          "qtd": "2",
+          "item": {
+            "id": 11,
+            "name": "Tapete de atividades",
+            "value": 30
+          }
+        }
+      ],
+      "totalValue": 60,
+      "discount": "",
+      "freightage": "",
+      "isDelivered": false,
+      "finalValue": 60,
+      "todayDate": "30/10/2023"
+    },
+    {
+      "id": "a8067665-787e-4aff-96a3-a91d238b1be4",
+      "clientName": "Juliana",
+      "clientContact": "61000000000",
+      "localName": "Aguas Claras",
+      "localCep": "00000000",
+      "selectedDate": "05/10/2023",
+      "selectedItems": [
+        {
+          "qtd": "2",
+          "item": {
+            "id": 11,
+            "name": "Tapete de atividades",
+            "value": 30
+          }
+        }
+      ],
+      "totalValue": 60,
+      "discount": "",
+      "freightage": "",
+      "isDelivered": false,
+      "finalValue": 60,
+      "todayDate": "30/10/2023"
+    },
+    {
+      "id": "9d882b31-4715-4ff5-8c07-96200ae0432c",
+      "clientName": "Renata",
+      "clientContact": "61000000000",
+      "localName": "Guará II",
+      "localCep": "00000000",
+      "selectedDate": "05/11/2023",
+      "selectedItems": [
+        {
+          "qtd": "1",
+          "item": {
+            "id": 3,
+            "name": "Bebê conforto",
+            "value": 60
+          }
+        }
+      ],
+      "totalValue": 60,
+      "discount": "",
+      "freightage": "",
+      "isDelivered": false,
+      "finalValue": 60,
+      "todayDate": "30/10/2023"
+    },
+    {
+      "id": "c35d8b78-7c20-4f19-a84e-a174c78786aa",
+      "clientName": "Mariela",
+      "clientContact": "61000000000",
+      "localName": "ParkWay",
+      "localCep": "00000000",
+      "selectedDate": "04/11/2023",
+      "selectedItems": [
+        {
+          "qtd": "3",
+          "item": {
+            "id": 1,
+            "name": "Cadeirinha de carro",
+            "value": 70
+          }
+        }
+      ],
+      "totalValue": 210,
+      "discount": "",
+      "freightage": "",
+      "isDelivered": false,
+      "finalValue": 210,
+      "todayDate": "30/10/2023"
+    },
+    {
+      "id": "143d9aaf-dbab-4d8b-9061-eb4844fb4338",
+      "clientName": "Bruna",
+      "clientContact": "61000000000",
+      "localName": "Noroeste",
+      "localCep": "00000000",
+      "selectedDate": "03/11/2023",
+      "selectedItems": [
+        {
+          "qtd": "1",
+          "item": {
+            "id": 2,
+            "name": "Carrinho de gêmeo",
+            "value": 120
+          }
+        },
+        {
+          "qtd": "2",
+          "item": {
+            "id": 3,
+            "name": "Bebê conforto",
+            "value": 60
+          }
+        }
+      ],
+      "totalValue": 240,
+      "discount": "",
+      "freightage": "",
+      "isDelivered": false,
+      "finalValue": 240,
+      "todayDate": "30/10/2023"
+    },
+    {
+      "id": "6eea58ed-4aa1-400c-8540-98b750b21c3a",
+      "clientName": "Tatiane",
+      "clientContact": "61000000000",
+      "localName": "Guará ",
+      "localCep": "00000000",
+      "selectedDate": "03/11/2023",
+      "selectedItems": [
+        {
+          "qtd": "2",
+          "item": {
+            "id": 9,
+            "name": "Ninho",
+            "value": 40
+          }
+        },
+        {
+          "qtd": "1",
+          "item": {
+            "id": 5,
+            "name": "Moisés",
+            "value": 60
+          }
+        }
+      ],
+      "totalValue": 140,
+      "discount": "",
+      "freightage": "",
+      "isDelivered": false,
+      "finalValue": 140,
+      "todayDate": "30/10/2023"
+    },
+    {
+      "id": "cb94ec14-3049-4b99-ac47-5f842c5f045a",
+      "clientName": "Laura",
+      "clientContact": "61000000000",
+      "localName": "Asa Norte",
+      "localCep": "00000000",
+      "selectedDate": "03/11/2023",
+      "selectedItems": [
+        {
+          "qtd": "2",
+          "item": {
+            "id": 3,
+            "name": "Bebê conforto",
+            "value": 60
+          }
+        },
+        {
+          "qtd": "1",
+          "item": {
+            "id": 11,
+            "name": "Tapete de atividades",
+            "value": 30
+          }
+        }
+      ],
+      "totalValue": 150,
+      "discount": "",
+      "freightage": "",
+      "isDelivered": false,
+      "finalValue": 150,
+      "todayDate": "30/10/2023"
+    },
+    {
+      "id": "a380db6b-b6bb-4b62-a0ca-c33dd3010dcc",
+      "clientName": "Camila",
+      "clientContact": "61000000000",
+      "localName": "Eixo Monumental",
+      "localCep": "00000000",
+      "selectedDate": "01/11/2023",
+      "selectedItems": [
+        {
+          "qtd": "1",
+          "item": {
+            "id": 10,
+            "name": "Almofada de amamentação",
+            "value": 30
+          }
+        },
+        {
+          "qtd": "1",
+          "item": {
+            "id": 6,
+            "name": "Cadeirinha de descanso",
+            "value": 50
+          }
+        },
+        {
+          "qtd": "1",
+          "item": {
+            "id": 1,
+            "name": "Cadeirinha de carro",
+            "value": 70
+          }
+        },
+        {
+          "qtd": "1",
+          "item": {
+            "id": 0,
+            "name": "Carrinho Tradicional",
+            "value": 75
+          }
+        }
+      ],
+      "totalValue": 225,
+      "discount": "5",
+      "freightage": "40",
+      "isDelivered": false,
+      "finalValue": 260,
+      "todayDate": "30/10/2023"
+    },
+    {
+      "id": "575396bc-d40e-4a3e-8a71-b987c83078ec",
+      "clientName": "Jorge",
+      "clientContact": "61000000000",
+      "localName": "Taguatinga",
+      "localCep": "00000000",
+      "selectedDate": "01/11/2023",
+      "selectedItems": [
+        {
+          "qtd": "2",
+          "item": {
+            "id": 0,
+            "name": "Carrinho Tradicional",
+            "value": 75
+          }
+        },
+        {
+          "qtd": "2",
+          "item": {
+            "id": 1,
+            "name": "Cadeirinha de carro",
+            "value": 70
+          }
+        }
+      ],
+      "totalValue": 290,
+      "discount": "",
+      "freightage": "",
+      "isDelivered": false,
+      "finalValue": 290,
+      "todayDate": "30/10/2023"
+    },
+    {
+      "id": "c09cf06b-5958-43d6-8e9d-cebeff4b66ec",
+      "clientName": "Ana Paula",
+      "clientContact": "6100000000",
+      "localName": "Sudoeste",
+      "localCep": "00000-000",
+      "selectedDate": "01/11/2023",
+      "selectedItems": [
+        {
+          "qtd": "1",
+          "item": {
+            "id": 0,
+            "name": "Carrinho Tradicional",
+            "value": 75
+          }
+        },
+        {
+          "qtd": "1",
+          "item": {
+            "id": 3,
+            "name": "Bebê conforto",
+            "value": 60
+          }
+        }
+      ],
+      "totalValue": 135,
+      "discount": "5",
+      "freightage": "20",
+      "isDelivered": false,
+      "finalValue": 150,
+      "todayDate": "30/10/2023"
+    }
+  ]
+}
