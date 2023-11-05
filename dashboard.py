@@ -37,15 +37,18 @@ items_data['item_name'] = items_data['selectedItems'].apply(lambda x: x['item'][
 
 items_data_filtered = items_data[items_data['Month'] == month]
 
-# Criar um DataFrame para contagem de itens por dia
-item_counts_per_day = items_data_filtered.groupby(['selectedDate', 'item_name']).size().reset_index(name='count')
+# Criar um DataFrame para contagem real de itens por dia
+items_data_filtered['total_count'] = items_data_filtered['qtd']  # Renomear para melhor clareza
 
-# Criar o gráfico de barras para cada dia com os respectivos itens
-fig_item_counts_per_day = px.bar(item_counts_per_day, x='selectedDate', y='count', color='item_name', 
-                                 labels={'selectedDate': 'Data', 'count': 'Contagem', 'item_name': 'item'}, 
-                                 title='Contagem de Itens por Dia')
+# Agrupar por data e item_name e multiplicar a quantidade do item pelo total_count
+item_counts_per_day_real = items_data_filtered.groupby(['selectedDate', 'item_name'])['total_count'].sum().reset_index()
 
-col3.plotly_chart(fig_item_counts_per_day)
+# Criar o gráfico de barras para cada dia com os respectivos itens e suas contagens reais
+fig_item_counts_per_day_real = px.bar(item_counts_per_day_real, x='selectedDate', y='total_count', color='item_name',
+                                      labels={'selectedDate': 'Data', 'total_count': 'Contagem', 'item_name': 'Item'},
+                                      title='Contagem Real de Itens por Dia')
+
+col3.plotly_chart(fig_item_counts_per_day_real)
 
 
 
