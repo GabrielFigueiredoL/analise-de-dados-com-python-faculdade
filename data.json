@@ -1,380 +1,2282 @@
 {
   "data": [
     {
-      "id": "a8067665-787e-4aff-96a3-a91d238b1be4",
-      "clientName": "Juliana",
-      "clientContact": "61000000000",
-      "localName": "Aguas Claras",
-      "localCep": "00000000",
-      "selectedDate": "05/11/2022",
-      "selectedItems": [
-        {
-          "qtd": "2",
-          "item": {
-            "id": 11,
-            "name": "Tapete de atividades",
-            "value": 30
-          }
-        }
-      ],
-      "totalValue": 60,
-      "discount": "",
-      "freightage": "",
-      "isDelivered": false,
-      "finalValue": 60,
-      "todayDate": "30/10/2023"
+    "id": "c5efa898-7deb-4f99-986c-5f8a6ae78d94",
+    "clientName": "Renata",
+    "clientContact": "61999999999",
+    "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+    "localCep": "71735405",
+    "selectedDate": "28/01/2023",
+    "selectedItems": [
+    {
+    "qtd": "2",
+    "item": {
+    "id": 7,
+    "name": "Cadeirinha de alimentação P",
+    "value": 50
+    }
     },
     {
-      "id": "a8067665-787e-4aff-96a3-a91d238b1be4",
-      "clientName": "Juliana",
-      "clientContact": "61000000000",
-      "localName": "Aguas Claras",
-      "localCep": "00000000",
-      "selectedDate": "05/11/2023",
-      "selectedItems": [
-        {
-          "qtd": "2",
-          "item": {
-            "id": 11,
-            "name": "Tapete de atividades",
-            "value": 30
-          }
-        }
-      ],
-      "totalValue": 60,
-      "discount": "",
-      "freightage": "",
-      "isDelivered": false,
-      "finalValue": 60,
-      "todayDate": "30/10/2023"
+    "qtd": "1",
+    "item": {
+    "id": 12,
+    "name": "Colchão de berço padrão",
+    "value": 60
+    }
+    }
+    ],
+    "totalValue": 160,
+    "discount": "5",
+    "freightage": "20",
+    "isDelivered": false,
+    "finalValue": 175,
+    "todayDate": "04/11/2023",
+    "localNumber": "."
     },
     {
-      "id": "a8067665-787e-4aff-96a3-a91d238b1be4",
-      "clientName": "Juliana",
-      "clientContact": "61000000000",
-      "localName": "Aguas Claras",
-      "localCep": "00000000",
-      "selectedDate": "10/01/2024",
-      "selectedItems": [
-        {
-          "qtd": "1",
-          "item": {
-            "id": 11,
-            "name": "Tapete de atividades",
-            "value": 30
-          }
-        }
-      ],
-      "totalValue": 60,
-      "discount": "",
-      "freightage": "",
-      "isDelivered": false,
-      "finalValue": 60,
-      "todayDate": "10/01/2024"
+    "id": "4d9ca984-bbf1-45f7-b4fd-cb7c7ead9f68",
+    "clientName": "Nicolas",
+    "clientContact": "61999999999",
+    "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+    "localCep": "71735405",
+    "selectedDate": "28/01/2023",
+    "selectedItems": [
+    {
+    "qtd": "2",
+    "item": {
+    "id": 3,
+    "name": "Bebê conforto",
+    "value": 60
+    }
+    }
+    ],
+    "totalValue": 120,
+    "discount": "5",
+    "freightage": "10",
+    "isDelivered": false,
+    "finalValue": 125,
+    "todayDate": "04/11/2023",
+    "localNumber": "."
     },
     {
-      "id": "a8067665-787e-4aff-96a3-a91d238b1be4",
-      "clientName": "Juliana",
-      "clientContact": "61000000000",
-      "localName": "Aguas Claras",
-      "localCep": "00000000",
-      "selectedDate": "05/12/2023",
-      "selectedItems": [
-        {
-          "qtd": "2",
-          "item": {
-            "id": 11,
-            "name": "Tapete de atividades",
-            "value": 30
-          }
-        }
-      ],
-      "totalValue": 60,
-      "discount": "",
-      "freightage": "",
-      "isDelivered": false,
-      "finalValue": 60,
-      "todayDate": "30/10/2023"
+    "id": "f9ea691d-0e32-4045-9b60-6bbd1740cc04",
+    "clientName": "Jessica",
+    "clientContact": "61999999999",
+    "localName": "SQS 103 Bloco A, Asa Sul",
+    "localCep": "70342010",
+    "selectedDate": "21/01/2023",
+    "selectedItems": [
+    {
+    "qtd": "2",
+    "item": {
+    "id": 3,
+    "name": "Bebê conforto",
+    "value": 60
+    }
     },
     {
-      "id": "a8067665-787e-4aff-96a3-a91d238b1be4",
-      "clientName": "Juliana",
-      "clientContact": "61000000000",
-      "localName": "Aguas Claras",
-      "localCep": "00000000",
-      "selectedDate": "05/10/2023",
-      "selectedItems": [
-        {
-          "qtd": "2",
-          "item": {
-            "id": 11,
-            "name": "Tapete de atividades",
-            "value": 30
-          }
-        }
-      ],
-      "totalValue": 60,
-      "discount": "",
-      "freightage": "",
-      "isDelivered": false,
-      "finalValue": 60,
-      "todayDate": "30/10/2023"
+    "qtd": "1",
+    "item": {
+    "id": 6,
+    "name": "Cadeirinha de descanso",
+    "value": 50
+    }
     },
     {
-      "id": "9d882b31-4715-4ff5-8c07-96200ae0432c",
+    "qtd": "2",
+    "item": {
+    "id": 4,
+    "name": "Berço portátil",
+    "value": 70
+    }
+    }
+    ],
+    "totalValue": 280,
+    "discount": "5",
+    "freightage": "10",
+    "isDelivered": false,
+    "finalValue": 285,
+    "todayDate": "04/11/2023",
+    "localNumber": "."
+    },
+    {
+    "id": "63ebcff7-34dd-4602-b163-27cc5b8bdedf",
+    "clientName": "jorge",
+    "clientContact": "61999999999",
+    "localName": "SQS 103 Bloco A, Asa Sul",
+    "localCep": "70342010",
+    "selectedDate": "20/01/2023",
+    "selectedItems": [
+    {
+    "qtd": "2",
+    "item": {
+    "id": 1,
+    "name": "Cadeirinha de carro",
+    "value": 70
+    }
+    },
+    {
+    "qtd": "1",
+    "item": {
+    "id": 2,
+    "name": "Carrinho de gêmeo",
+    "value": 120
+    }
+    }
+    ],
+    "totalValue": 260,
+    "discount": "5",
+    "freightage": "10",
+    "isDelivered": false,
+    "finalValue": 265,
+    "todayDate": "04/11/2023",
+    "localNumber": "."
+    },
+    {
+    "id": "d5c6a843-8f0a-46b2-8c96-07c213cbf21b",
+    "clientName": "Renata",
+    "clientContact": "61999999999",
+    "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+    "localCep": "71735405",
+    "selectedDate": "17/01/2023",
+    "selectedItems": [
+    {
+    "qtd": "2",
+    "item": {
+    "id": 7,
+    "name": "Cadeirinha de alimentação P",
+    "value": 50
+    }
+    },
+    {
+    "qtd": "1",
+    "item": {
+    "id": 12,
+    "name": "Colchão de berço padrão",
+    "value": 60
+    }
+    },
+    {
+    "qtd": "2",
+    "item": {
+    "id": 0,
+    "name": "Carrinho Tradicional",
+    "value": 75
+    }
+    }
+    ],
+    "totalValue": 280,
+    "discount": "5",
+    "freightage": "20",
+    "isDelivered": false,
+    "finalValue": 325,
+    "todayDate": "04/11/2023",
+    "localNumber": "."
+    },
+    {
+    "id": "24ffadaf-e114-4df3-8c2c-98e6fb28b7ab",
+    "clientName": "Alex",
+    "clientContact": "61999999999",
+    "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+    "localCep": "71735405",
+    "selectedDate": "13/01/2023",
+    "selectedItems": [
+    {
+    "qtd": "2",
+    "item": {
+    "id": 7,
+    "name": "Cadeirinha de alimentação P",
+    "value": 50
+    }
+    },
+    {
+    "qtd": "2",
+    "item": {
+    "id": 0,
+    "name": "Carrinho Tradicional",
+    "value": 75
+    }
+    },
+    {
+    "qtd": "1",
+    "item": {
+    "id": 10,
+    "name": "Almofada de amamentação",
+    "value": 30
+    }
+    }
+    ],
+    "totalValue": 280,
+    "discount": "5",
+    "freightage": "20",
+    "isDelivered": false,
+    "finalValue": 285,
+    "todayDate": "04/11/2023",
+    "localNumber": "."
+    },
+    {
+    "id": "d86b7f64-07a0-494e-8e8f-f074d080080f",
+    "clientName": "Alana",
+    "clientContact": "61999999999",
+    "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+    "localCep": "71735405",
+    "selectedDate": "12/01/2023",
+    "selectedItems": [
+    {
+    "qtd": "2",
+    "item": {
+    "id": 9,
+    "name": "Ninho",
+    "value": 40
+    }
+    },
+    {
+    "qtd": "1",
+    "item": {
+    "id": 5,
+    "name": "Moisés",
+    "value": 60
+    }
+    }
+    ],
+    "totalValue": 140,
+    "discount": "5",
+    "freightage": "20",
+    "isDelivered": false,
+    "finalValue": 155,
+    "todayDate": "04/11/2023",
+    "localNumber": "."
+    },
+    {
+    "id": "27baa641-c679-4daf-963a-8d416c43cd2f",
+    "clientName": "Roberta",
+    "clientContact": "61999999999",
+    "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+    "localCep": "71735405",
+    "selectedDate": "12/01/2023",
+    "selectedItems": [
+    {
+    "qtd": "2",
+    "item": {
+    "id": 2,
+    "name": "Carrinho de gêmeo",
+    "value": 120
+    }
+    },
+    {
+    "qtd": "1",
+    "item": {
+    "id": 12,
+    "name": "Colchão de berço padrão",
+    "value": 60
+    }
+    }
+    ],
+    "totalValue": 300,
+    "discount": "5",
+    "freightage": "10",
+    "isDelivered": false,
+    "finalValue": 305,
+    "todayDate": "04/11/2023",
+    "localNumber": "."
+    },
+    {
+    "id": "6a8da193-efa2-4e10-a5e4-51c2da45f047",
+    "clientName": "Rômulo",
+    "clientContact": "61999999999",
+    "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+    "localCep": "71735405",
+    "selectedDate": "12/01/2023",
+    "selectedItems": [
+    {
+    "qtd": "2",
+    "item": {
+    "id": 3,
+    "name": "Bebê conforto",
+    "value": 60
+    }
+    },
+    {
+    "qtd": "2",
+    "item": {
+    "id": 0,
+    "name": "Carrinho Tradicional",
+    "value": 75
+    }
+    }
+    ],
+    "totalValue": 270,
+    "discount": "5",
+    "freightage": "10",
+    "isDelivered": false,
+    "finalValue": 275,
+    "todayDate": "04/11/2023",
+    "localNumber": "."
+    },
+    {
+    "id": "0823ae8e-175f-485e-bb8e-a8df4ad2b33e",
+    "clientName": "Ricardo",
+    "clientContact": "61999999999",
+    "localName": "SQS 103 Bloco A, Asa Sul",
+    "localCep": "70342010",
+    "selectedDate": "05/01/2023",
+    "selectedItems": [
+    {
+    "qtd": "2",
+    "item": {
+    "id": 3,
+    "name": "Bebê conforto",
+    "value": 60
+    }
+    },
+    {
+    "qtd": "1",
+    "item": {
+    "id": 6,
+    "name": "Cadeirinha de descanso",
+    "value": 50
+    }
+    }
+    ],
+    "totalValue": 170,
+    "discount": "5",
+    "freightage": "10",
+    "isDelivered": false,
+    "finalValue": 175,
+    "todayDate": "04/11/2023",
+    "localNumber": "."
+    },
+    {
+    "id": "66266db8-f63a-4d00-9897-7e0978ae1e81",
+    "clientName": "Ana",
+    "clientContact": "61999999999",
+    "localName": "SQS 103 Bloco A, Asa Sul",
+    "localCep": "70342010",
+    "selectedDate": "03/01/2023",
+    "selectedItems": [
+    {
+    "qtd": "1",
+    "item": {
+    "id": 3,
+    "name": "Bebê conforto",
+    "value": 60
+    }
+    },
+    {
+    "qtd": "1",
+    "item": {
+    "id": 0,
+    "name": "Carrinho Tradicional",
+    "value": 75
+    }
+    }
+    ],
+    "totalValue": 135,
+    "discount": "5",
+    "freightage": "10",
+    "isDelivered": false,
+    "finalValue": 140,
+    "todayDate": "04/11/2023",
+    "localNumber": "."
+    },
+      {
+      "id": "c5efa898-7deb-4f99-986c-5f8a6ae78d94",
       "clientName": "Renata",
-      "clientContact": "61000000000",
-      "localName": "Guará II",
-      "localCep": "00000000",
-      "selectedDate": "05/11/2023",
+      "clientContact": "61999999999",
+      "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+      "localCep": "71735405",
+      "selectedDate": "28/02/2023",
       "selectedItems": [
-        {
-          "qtd": "1",
-          "item": {
-            "id": 3,
-            "name": "Bebê conforto",
-            "value": 60
-          }
-        }
+      {
+      "qtd": "2",
+      "item": {
+      "id": 7,
+      "name": "Cadeirinha de alimentação P",
+      "value": 50
+      }
+      },
+      {
+      "qtd": "1",
+      "item": {
+      "id": 12,
+      "name": "Colchão de berço padrão",
+      "value": 60
+      }
+      }
       ],
-      "totalValue": 60,
-      "discount": "",
-      "freightage": "",
-      "isDelivered": false,
-      "finalValue": 60,
-      "todayDate": "30/10/2023"
-    },
-    {
-      "id": "c35d8b78-7c20-4f19-a84e-a174c78786aa",
-      "clientName": "Mariela",
-      "clientContact": "61000000000",
-      "localName": "ParkWay",
-      "localCep": "00000000",
-      "selectedDate": "04/11/2023",
-      "selectedItems": [
-        {
-          "qtd": "3",
-          "item": {
-            "id": 1,
-            "name": "Cadeirinha de carro",
-            "value": 70
-          }
-        }
-      ],
-      "totalValue": 210,
-      "discount": "",
-      "freightage": "",
-      "isDelivered": false,
-      "finalValue": 210,
-      "todayDate": "30/10/2023"
-    },
-    {
-      "id": "143d9aaf-dbab-4d8b-9061-eb4844fb4338",
-      "clientName": "Bruna",
-      "clientContact": "61000000000",
-      "localName": "Noroeste",
-      "localCep": "00000000",
-      "selectedDate": "03/11/2023",
-      "selectedItems": [
-        {
-          "qtd": "1",
-          "item": {
-            "id": 2,
-            "name": "Carrinho de gêmeo",
-            "value": 120
-          }
-        },
-        {
-          "qtd": "2",
-          "item": {
-            "id": 3,
-            "name": "Bebê conforto",
-            "value": 60
-          }
-        }
-      ],
-      "totalValue": 240,
-      "discount": "",
-      "freightage": "",
-      "isDelivered": false,
-      "finalValue": 240,
-      "todayDate": "30/10/2023"
-    },
-    {
-      "id": "6eea58ed-4aa1-400c-8540-98b750b21c3a",
-      "clientName": "Tatiane",
-      "clientContact": "61000000000",
-      "localName": "Guará ",
-      "localCep": "00000000",
-      "selectedDate": "03/11/2023",
-      "selectedItems": [
-        {
-          "qtd": "2",
-          "item": {
-            "id": 9,
-            "name": "Ninho",
-            "value": 40
-          }
-        },
-        {
-          "qtd": "1",
-          "item": {
-            "id": 5,
-            "name": "Moisés",
-            "value": 60
-          }
-        }
-      ],
-      "totalValue": 140,
-      "discount": "",
-      "freightage": "",
-      "isDelivered": false,
-      "finalValue": 140,
-      "todayDate": "30/10/2023"
-    },
-    {
-      "id": "cb94ec14-3049-4b99-ac47-5f842c5f045a",
-      "clientName": "Laura",
-      "clientContact": "61000000000",
-      "localName": "Asa Norte",
-      "localCep": "00000000",
-      "selectedDate": "03/11/2023",
-      "selectedItems": [
-        {
-          "qtd": "2",
-          "item": {
-            "id": 3,
-            "name": "Bebê conforto",
-            "value": 60
-          }
-        },
-        {
-          "qtd": "1",
-          "item": {
-            "id": 11,
-            "name": "Tapete de atividades",
-            "value": 30
-          }
-        }
-      ],
-      "totalValue": 150,
-      "discount": "",
-      "freightage": "",
-      "isDelivered": false,
-      "finalValue": 150,
-      "todayDate": "30/10/2023"
-    },
-    {
-      "id": "a380db6b-b6bb-4b62-a0ca-c33dd3010dcc",
-      "clientName": "Camila",
-      "clientContact": "61000000000",
-      "localName": "Eixo Monumental",
-      "localCep": "00000000",
-      "selectedDate": "01/11/2023",
-      "selectedItems": [
-        {
-          "qtd": "1",
-          "item": {
-            "id": 10,
-            "name": "Almofada de amamentação",
-            "value": 30
-          }
-        },
-        {
-          "qtd": "1",
-          "item": {
-            "id": 6,
-            "name": "Cadeirinha de descanso",
-            "value": 50
-          }
-        },
-        {
-          "qtd": "1",
-          "item": {
-            "id": 1,
-            "name": "Cadeirinha de carro",
-            "value": 70
-          }
-        },
-        {
-          "qtd": "1",
-          "item": {
-            "id": 0,
-            "name": "Carrinho Tradicional",
-            "value": 75
-          }
-        }
-      ],
-      "totalValue": 225,
-      "discount": "5",
-      "freightage": "40",
-      "isDelivered": false,
-      "finalValue": 260,
-      "todayDate": "30/10/2023"
-    },
-    {
-      "id": "575396bc-d40e-4a3e-8a71-b987c83078ec",
-      "clientName": "Jorge",
-      "clientContact": "61000000000",
-      "localName": "Taguatinga",
-      "localCep": "00000000",
-      "selectedDate": "01/11/2023",
-      "selectedItems": [
-        {
-          "qtd": "2",
-          "item": {
-            "id": 0,
-            "name": "Carrinho Tradicional",
-            "value": 75
-          }
-        },
-        {
-          "qtd": "2",
-          "item": {
-            "id": 1,
-            "name": "Cadeirinha de carro",
-            "value": 70
-          }
-        }
-      ],
-      "totalValue": 290,
-      "discount": "",
-      "freightage": "",
-      "isDelivered": false,
-      "finalValue": 290,
-      "todayDate": "30/10/2023"
-    },
-    {
-      "id": "c09cf06b-5958-43d6-8e9d-cebeff4b66ec",
-      "clientName": "Ana Paula",
-      "clientContact": "6100000000",
-      "localName": "Sudoeste",
-      "localCep": "00000-000",
-      "selectedDate": "01/11/2023",
-      "selectedItems": [
-        {
-          "qtd": "1",
-          "item": {
-            "id": 0,
-            "name": "Carrinho Tradicional",
-            "value": 75
-          }
-        },
-        {
-          "qtd": "1",
-          "item": {
-            "id": 3,
-            "name": "Bebê conforto",
-            "value": 60
-          }
-        }
-      ],
-      "totalValue": 135,
+      "totalValue": 160,
       "discount": "5",
       "freightage": "20",
       "isDelivered": false,
-      "finalValue": 150,
-      "todayDate": "30/10/2023"
-    }
-  ]
+      "finalValue": 175,
+      "todayDate": "04/11/2023",
+      "localNumber": "."
+      },
+      {
+      "id": "4d9ca984-bbf1-45f7-b4fd-cb7c7ead9f68",
+      "clientName": "Nicolas",
+      "clientContact": "61999999999",
+      "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+      "localCep": "71735405",
+      "selectedDate": "28/02/2023",
+      "selectedItems": [
+      {
+      "qtd": "2",
+      "item": {
+      "id": 3,
+      "name": "Bebê conforto",
+      "value": 60
+      }
+      }
+      ],
+      "totalValue": 120,
+      "discount": "5",
+      "freightage": "10",
+      "isDelivered": false,
+      "finalValue": 125,
+      "todayDate": "04/11/2023",
+      "localNumber": "."
+      },
+      {
+      "id": "f9ea691d-0e32-4045-9b60-6bbd1740cc04",
+      "clientName": "Jessica",
+      "clientContact": "61999999999",
+      "localName": "SQS 103 Bloco A, Asa Sul",
+      "localCep": "70342020",
+      "selectedDate": "21/02/2023",
+      "selectedItems": [
+      {
+      "qtd": "2",
+      "item": {
+      "id": 3,
+      "name": "Bebê conforto",
+      "value": 60
+      }
+      },
+      {
+      "qtd": "1",
+      "item": {
+      "id": 6,
+      "name": "Cadeirinha de descanso",
+      "value": 50
+      }
+      },
+      {
+      "qtd": "2",
+      "item": {
+      "id": 4,
+      "name": "Berço portátil",
+      "value": 70
+      }
+      }
+      ],
+      "totalValue": 280,
+      "discount": "5",
+      "freightage": "10",
+      "isDelivered": false,
+      "finalValue": 285,
+      "todayDate": "04/11/2023",
+      "localNumber": "."
+      },
+      {
+      "id": "63ebcff7-34dd-4602-b163-27cc5b8bdedf",
+      "clientName": "jorge",
+      "clientContact": "61999999999",
+      "localName": "SQS 103 Bloco A, Asa Sul",
+      "localCep": "70342020",
+      "selectedDate": "20/02/2023",
+      "selectedItems": [
+      {
+      "qtd": "2",
+      "item": {
+      "id": 1,
+      "name": "Cadeirinha de carro",
+      "value": 70
+      }
+      },
+      {
+      "qtd": "1",
+      "item": {
+      "id": 2,
+      "name": "Carrinho de gêmeo",
+      "value": 120
+      }
+      }
+      ],
+      "totalValue": 260,
+      "discount": "5",
+      "freightage": "10",
+      "isDelivered": false,
+      "finalValue": 265,
+      "todayDate": "04/11/2023",
+      "localNumber": "."
+      },
+      {
+      "id": "d5c6a843-8f0a-46b2-8c96-07c213cbf21b",
+      "clientName": "Renata",
+      "clientContact": "61999999999",
+      "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+      "localCep": "71735405",
+      "selectedDate": "17/02/2023",
+      "selectedItems": [
+      {
+      "qtd": "2",
+      "item": {
+      "id": 7,
+      "name": "Cadeirinha de alimentação P",
+      "value": 50
+      }
+      },
+      {
+      "qtd": "1",
+      "item": {
+      "id": 12,
+      "name": "Colchão de berço padrão",
+      "value": 60
+      }
+      },
+      {
+      "qtd": "2",
+      "item": {
+      "id": 0,
+      "name": "Carrinho Tradicional",
+      "value": 75
+      }
+      }
+      ],
+      "totalValue": 280,
+      "discount": "5",
+      "freightage": "20",
+      "isDelivered": false,
+      "finalValue": 325,
+      "todayDate": "04/11/2023",
+      "localNumber": "."
+      },
+      {
+      "id": "24ffadaf-e114-4df3-8c2c-98e6fb28b7ab",
+      "clientName": "Alex",
+      "clientContact": "61999999999",
+      "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+      "localCep": "71735405",
+      "selectedDate": "13/02/2023",
+      "selectedItems": [
+      {
+      "qtd": "2",
+      "item": {
+      "id": 7,
+      "name": "Cadeirinha de alimentação P",
+      "value": 50
+      }
+      },
+      {
+      "qtd": "2",
+      "item": {
+      "id": 0,
+      "name": "Carrinho Tradicional",
+      "value": 75
+      }
+      },
+      {
+      "qtd": "1",
+      "item": {
+      "id": 10,
+      "name": "Almofada de amamentação",
+      "value": 30
+      }
+      }
+      ],
+      "totalValue": 280,
+      "discount": "5",
+      "freightage": "20",
+      "isDelivered": false,
+      "finalValue": 285,
+      "todayDate": "04/11/2023",
+      "localNumber": "."
+      },
+      {
+      "id": "d86b7f64-07a0-494e-8e8f-f074d080080f",
+      "clientName": "Alana",
+      "clientContact": "61999999999",
+      "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+      "localCep": "71735405",
+      "selectedDate": "12/02/2023",
+      "selectedItems": [
+      {
+      "qtd": "2",
+      "item": {
+      "id": 9,
+      "name": "Ninho",
+      "value": 40
+      }
+      },
+      {
+      "qtd": "1",
+      "item": {
+      "id": 5,
+      "name": "Moisés",
+      "value": 60
+      }
+      }
+      ],
+      "totalValue": 140,
+      "discount": "5",
+      "freightage": "20",
+      "isDelivered": false,
+      "finalValue": 155,
+      "todayDate": "04/11/2023",
+      "localNumber": "."
+      },
+      {
+      "id": "27baa641-c679-4daf-963a-8d416c43cd2f",
+      "clientName": "Roberta",
+      "clientContact": "61999999999",
+      "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+      "localCep": "71735405",
+      "selectedDate": "12/02/2023",
+      "selectedItems": [
+      {
+      "qtd": "2",
+      "item": {
+      "id": 2,
+      "name": "Carrinho de gêmeo",
+      "value": 120
+      }
+      },
+      {
+      "qtd": "1",
+      "item": {
+      "id": 12,
+      "name": "Colchão de berço padrão",
+      "value": 60
+      }
+      }
+      ],
+      "totalValue": 300,
+      "discount": "5",
+      "freightage": "10",
+      "isDelivered": false,
+      "finalValue": 305,
+      "todayDate": "04/11/2023",
+      "localNumber": "."
+      },
+      {
+      "id": "6a8da193-efa2-4e10-a5e4-51c2da45f047",
+      "clientName": "Rômulo",
+      "clientContact": "61999999999",
+      "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+      "localCep": "71735405",
+      "selectedDate": "12/02/2023",
+      "selectedItems": [
+      {
+      "qtd": "2",
+      "item": {
+      "id": 3,
+      "name": "Bebê conforto",
+      "value": 60
+      }
+      },
+      {
+      "qtd": "2",
+      "item": {
+      "id": 0,
+      "name": "Carrinho Tradicional",
+      "value": 75
+      }
+      }
+      ],
+      "totalValue": 270,
+      "discount": "5",
+      "freightage": "10",
+      "isDelivered": false,
+      "finalValue": 275,
+      "todayDate": "04/11/2023",
+      "localNumber": "."
+      },
+      {
+      "id": "0823ae8e-175f-485e-bb8e-a8df4ad2b33e",
+      "clientName": "Ricardo",
+      "clientContact": "61999999999",
+      "localName": "SQS 103 Bloco A, Asa Sul",
+      "localCep": "70342020",
+      "selectedDate": "05/02/2023",
+      "selectedItems": [
+      {
+      "qtd": "2",
+      "item": {
+      "id": 3,
+      "name": "Bebê conforto",
+      "value": 60
+      }
+      },
+      {
+      "qtd": "1",
+      "item": {
+      "id": 6,
+      "name": "Cadeirinha de descanso",
+      "value": 50
+      }
+      }
+      ],
+      "totalValue": 170,
+      "discount": "5",
+      "freightage": "10",
+      "isDelivered": false,
+      "finalValue": 175,
+      "todayDate": "04/11/2023",
+      "localNumber": "."
+      },
+      {
+      "id": "66266db8-f63a-4d00-9897-7e0978ae1e81",
+      "clientName": "Ana",
+      "clientContact": "61999999999",
+      "localName": "SQS 103 Bloco A, Asa Sul",
+      "localCep": "70342020",
+      "selectedDate": "03/02/2023",
+      "selectedItems": [
+      {
+      "qtd": "1",
+      "item": {
+      "id": 3,
+      "name": "Bebê conforto",
+      "value": 60
+      }
+      },
+      {
+      "qtd": "1",
+      "item": {
+      "id": 0,
+      "name": "Carrinho Tradicional",
+      "value": 75
+      }
+      }
+      ],
+      "totalValue": 135,
+      "discount": "5",
+      "freightage": "10",
+      "isDelivered": false,
+      "finalValue": 140,
+      "todayDate": "04/11/2023",
+      "localNumber": "."
+      },
+      {
+        "id": "c5efa898-7deb-4f99-986c-5f8a6ae78d94",
+        "clientName": "Renata",
+        "clientContact": "61999999999",
+        "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+        "localCep": "71735405",
+        "selectedDate": "28/03/2023",
+        "selectedItems": [
+        {
+        "qtd": "2",
+        "item": {
+        "id": 7,
+        "name": "Cadeirinha de alimentação P",
+        "value": 50
+        }
+        },
+        {
+        "qtd": "1",
+        "item": {
+        "id": 12,
+        "name": "Colchão de berço padrão",
+        "value": 60
+        }
+        }
+        ],
+        "totalValue": 160,
+        "discount": "5",
+        "freightage": "20",
+        "isDelivered": false,
+        "finalValue": 175,
+        "todayDate": "04/11/2023",
+        "localNumber": "."
+        },
+        {
+        "id": "4d9ca984-bbf1-45f7-b4fd-cb7c7ead9f68",
+        "clientName": "Nicolas",
+        "clientContact": "61999999999",
+        "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+        "localCep": "71735405",
+        "selectedDate": "28/03/2023",
+        "selectedItems": [
+        {
+        "qtd": "2",
+        "item": {
+        "id": 3,
+        "name": "Bebê conforto",
+        "value": 60
+        }
+        }
+        ],
+        "totalValue": 120,
+        "discount": "5",
+        "freightage": "10",
+        "isDelivered": false,
+        "finalValue": 125,
+        "todayDate": "04/11/2023",
+        "localNumber": "."
+        },
+        {
+        "id": "f9ea691d-0e32-4045-9b60-6bbd1740cc04",
+        "clientName": "Jessica",
+        "clientContact": "61999999999",
+        "localName": "SQS 103 Bloco A, Asa Sul",
+        "localCep": "70342030",
+        "selectedDate": "21/03/2023",
+        "selectedItems": [
+        {
+        "qtd": "2",
+        "item": {
+        "id": 3,
+        "name": "Bebê conforto",
+        "value": 60
+        }
+        },
+        {
+        "qtd": "1",
+        "item": {
+        "id": 6,
+        "name": "Cadeirinha de descanso",
+        "value": 50
+        }
+        },
+        {
+        "qtd": "2",
+        "item": {
+        "id": 4,
+        "name": "Berço portátil",
+        "value": 70
+        }
+        }
+        ],
+        "totalValue": 280,
+        "discount": "5",
+        "freightage": "10",
+        "isDelivered": false,
+        "finalValue": 285,
+        "todayDate": "04/11/2023",
+        "localNumber": "."
+        },
+        {
+        "id": "63ebcff7-34dd-4602-b163-27cc5b8bdedf",
+        "clientName": "jorge",
+        "clientContact": "61999999999",
+        "localName": "SQS 103 Bloco A, Asa Sul",
+        "localCep": "70342030",
+        "selectedDate": "20/03/2023",
+        "selectedItems": [
+        {
+        "qtd": "2",
+        "item": {
+        "id": 1,
+        "name": "Cadeirinha de carro",
+        "value": 70
+        }
+        },
+        {
+        "qtd": "1",
+        "item": {
+        "id": 2,
+        "name": "Carrinho de gêmeo",
+        "value": 120
+        }
+        }
+        ],
+        "totalValue": 260,
+        "discount": "5",
+        "freightage": "10",
+        "isDelivered": false,
+        "finalValue": 265,
+        "todayDate": "04/11/2023",
+        "localNumber": "."
+        },
+        {
+        "id": "d5c6a843-8f0a-46b2-8c96-07c213cbf21b",
+        "clientName": "Renata",
+        "clientContact": "61999999999",
+        "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+        "localCep": "71735405",
+        "selectedDate": "17/03/2023",
+        "selectedItems": [
+        {
+        "qtd": "2",
+        "item": {
+        "id": 7,
+        "name": "Cadeirinha de alimentação P",
+        "value": 50
+        }
+        },
+        {
+        "qtd": "1",
+        "item": {
+        "id": 12,
+        "name": "Colchão de berço padrão",
+        "value": 60
+        }
+        },
+        {
+        "qtd": "2",
+        "item": {
+        "id": 0,
+        "name": "Carrinho Tradicional",
+        "value": 75
+        }
+        }
+        ],
+        "totalValue": 280,
+        "discount": "5",
+        "freightage": "20",
+        "isDelivered": false,
+        "finalValue": 325,
+        "todayDate": "04/11/2023",
+        "localNumber": "."
+        },
+        {
+        "id": "24ffadaf-e114-4df3-8c2c-98e6fb28b7ab",
+        "clientName": "Alex",
+        "clientContact": "61999999999",
+        "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+        "localCep": "71735405",
+        "selectedDate": "13/03/2023",
+        "selectedItems": [
+        {
+        "qtd": "2",
+        "item": {
+        "id": 7,
+        "name": "Cadeirinha de alimentação P",
+        "value": 50
+        }
+        },
+        {
+        "qtd": "2",
+        "item": {
+        "id": 0,
+        "name": "Carrinho Tradicional",
+        "value": 75
+        }
+        },
+        {
+        "qtd": "1",
+        "item": {
+        "id": 10,
+        "name": "Almofada de amamentação",
+        "value": 30
+        }
+        }
+        ],
+        "totalValue": 280,
+        "discount": "5",
+        "freightage": "20",
+        "isDelivered": false,
+        "finalValue": 285,
+        "todayDate": "04/11/2023",
+        "localNumber": "."
+        },
+        {
+        "id": "d86b7f64-07a0-494e-8e8f-f074d080080f",
+        "clientName": "Alana",
+        "clientContact": "61999999999",
+        "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+        "localCep": "71735405",
+        "selectedDate": "12/03/2023",
+        "selectedItems": [
+        {
+        "qtd": "2",
+        "item": {
+        "id": 9,
+        "name": "Ninho",
+        "value": 40
+        }
+        },
+        {
+        "qtd": "1",
+        "item": {
+        "id": 5,
+        "name": "Moisés",
+        "value": 60
+        }
+        }
+        ],
+        "totalValue": 140,
+        "discount": "5",
+        "freightage": "20",
+        "isDelivered": false,
+        "finalValue": 155,
+        "todayDate": "04/11/2023",
+        "localNumber": "."
+        },
+        {
+        "id": "27baa641-c679-4daf-963a-8d416c43cd2f",
+        "clientName": "Roberta",
+        "clientContact": "61999999999",
+        "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+        "localCep": "71735405",
+        "selectedDate": "12/03/2023",
+        "selectedItems": [
+        {
+        "qtd": "2",
+        "item": {
+        "id": 2,
+        "name": "Carrinho de gêmeo",
+        "value": 120
+        }
+        },
+        {
+        "qtd": "1",
+        "item": {
+        "id": 12,
+        "name": "Colchão de berço padrão",
+        "value": 60
+        }
+        }
+        ],
+        "totalValue": 300,
+        "discount": "5",
+        "freightage": "10",
+        "isDelivered": false,
+        "finalValue": 305,
+        "todayDate": "04/11/2023",
+        "localNumber": "."
+        },
+        {
+        "id": "6a8da193-efa2-4e10-a5e4-51c2da45f047",
+        "clientName": "Rômulo",
+        "clientContact": "61999999999",
+        "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+        "localCep": "71735405",
+        "selectedDate": "12/03/2023",
+        "selectedItems": [
+        {
+        "qtd": "2",
+        "item": {
+        "id": 3,
+        "name": "Bebê conforto",
+        "value": 60
+        }
+        },
+        {
+        "qtd": "2",
+        "item": {
+        "id": 0,
+        "name": "Carrinho Tradicional",
+        "value": 75
+        }
+        }
+        ],
+        "totalValue": 270,
+        "discount": "5",
+        "freightage": "10",
+        "isDelivered": false,
+        "finalValue": 275,
+        "todayDate": "04/11/2023",
+        "localNumber": "."
+        },
+        {
+        "id": "0823ae8e-175f-485e-bb8e-a8df4ad2b33e",
+        "clientName": "Ricardo",
+        "clientContact": "61999999999",
+        "localName": "SQS 103 Bloco A, Asa Sul",
+        "localCep": "70342030",
+        "selectedDate": "05/03/2023",
+        "selectedItems": [
+        {
+        "qtd": "2",
+        "item": {
+        "id": 3,
+        "name": "Bebê conforto",
+        "value": 60
+        }
+        },
+        {
+        "qtd": "1",
+        "item": {
+        "id": 6,
+        "name": "Cadeirinha de descanso",
+        "value": 50
+        }
+        }
+        ],
+        "totalValue": 170,
+        "discount": "5",
+        "freightage": "10",
+        "isDelivered": false,
+        "finalValue": 175,
+        "todayDate": "04/11/2023",
+        "localNumber": "."
+        },
+        {
+        "id": "66266db8-f63a-4d00-9897-7e0978ae1e81",
+        "clientName": "Ana",
+        "clientContact": "61999999999",
+        "localName": "SQS 103 Bloco A, Asa Sul",
+        "localCep": "70342030",
+        "selectedDate": "03/03/2023",
+        "selectedItems": [
+        {
+        "qtd": "1",
+        "item": {
+        "id": 3,
+        "name": "Bebê conforto",
+        "value": 60
+        }
+        },
+        {
+        "qtd": "1",
+        "item": {
+        "id": 0,
+        "name": "Carrinho Tradicional",
+        "value": 75
+        }
+        }
+        ],
+        "totalValue": 135,
+        "discount": "5",
+        "freightage": "10",
+        "isDelivered": false,
+        "finalValue": 140,
+        "todayDate": "04/11/2023",
+        "localNumber": "."
+        },
+        {
+          "id": "c5efa898-7deb-4f99-986c-5f8a6ae78d94",
+          "clientName": "Renata",
+          "clientContact": "61999999999",
+          "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+          "localCep": "71735405",
+          "selectedDate": "28/04/2023",
+          "selectedItems": [
+          {
+          "qtd": "2",
+          "item": {
+          "id": 7,
+          "name": "Cadeirinha de alimentação P",
+          "value": 50
+          }
+          },
+          {
+          "qtd": "1",
+          "item": {
+          "id": 12,
+          "name": "Colchão de berço padrão",
+          "value": 60
+          }
+          }
+          ],
+          "totalValue": 160,
+          "discount": "5",
+          "freightage": "20",
+          "isDelivered": false,
+          "finalValue": 175,
+          "todayDate": "04/11/2023",
+          "localNumber": "."
+          },
+          {
+          "id": "4d9ca984-bbf1-45f7-b4fd-cb7c7ead9f68",
+          "clientName": "Nicolas",
+          "clientContact": "61999999999",
+          "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+          "localCep": "71735405",
+          "selectedDate": "28/04/2023",
+          "selectedItems": [
+          {
+          "qtd": "2",
+          "item": {
+          "id": 3,
+          "name": "Bebê conforto",
+          "value": 60
+          }
+          }
+          ],
+          "totalValue": 120,
+          "discount": "5",
+          "freightage": "10",
+          "isDelivered": false,
+          "finalValue": 125,
+          "todayDate": "04/11/2023",
+          "localNumber": "."
+          },
+          {
+          "id": "f9ea691d-0e32-4045-9b60-6bbd1740cc04",
+          "clientName": "Jessica",
+          "clientContact": "61999999999",
+          "localName": "SQS 103 Bloco A, Asa Sul",
+          "localCep": "70342040",
+          "selectedDate": "21/04/2023",
+          "selectedItems": [
+          {
+          "qtd": "2",
+          "item": {
+          "id": 3,
+          "name": "Bebê conforto",
+          "value": 60
+          }
+          },
+          {
+          "qtd": "1",
+          "item": {
+          "id": 6,
+          "name": "Cadeirinha de descanso",
+          "value": 50
+          }
+          },
+          {
+          "qtd": "2",
+          "item": {
+          "id": 4,
+          "name": "Berço portátil",
+          "value": 70
+          }
+          }
+          ],
+          "totalValue": 280,
+          "discount": "5",
+          "freightage": "10",
+          "isDelivered": false,
+          "finalValue": 285,
+          "todayDate": "04/11/2023",
+          "localNumber": "."
+          },
+          {
+          "id": "63ebcff7-34dd-4602-b163-27cc5b8bdedf",
+          "clientName": "jorge",
+          "clientContact": "61999999999",
+          "localName": "SQS 103 Bloco A, Asa Sul",
+          "localCep": "70342040",
+          "selectedDate": "20/04/2023",
+          "selectedItems": [
+          {
+          "qtd": "2",
+          "item": {
+          "id": 1,
+          "name": "Cadeirinha de carro",
+          "value": 70
+          }
+          },
+          {
+          "qtd": "1",
+          "item": {
+          "id": 2,
+          "name": "Carrinho de gêmeo",
+          "value": 120
+          }
+          }
+          ],
+          "totalValue": 260,
+          "discount": "5",
+          "freightage": "10",
+          "isDelivered": false,
+          "finalValue": 265,
+          "todayDate": "04/11/2023",
+          "localNumber": "."
+          },
+          {
+          "id": "d5c6a843-8f0a-46b2-8c96-07c213cbf21b",
+          "clientName": "Renata",
+          "clientContact": "61999999999",
+          "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+          "localCep": "71735405",
+          "selectedDate": "17/04/2023",
+          "selectedItems": [
+          {
+          "qtd": "2",
+          "item": {
+          "id": 7,
+          "name": "Cadeirinha de alimentação P",
+          "value": 50
+          }
+          },
+          {
+          "qtd": "1",
+          "item": {
+          "id": 12,
+          "name": "Colchão de berço padrão",
+          "value": 60
+          }
+          },
+          {
+          "qtd": "2",
+          "item": {
+          "id": 0,
+          "name": "Carrinho Tradicional",
+          "value": 75
+          }
+          }
+          ],
+          "totalValue": 280,
+          "discount": "5",
+          "freightage": "20",
+          "isDelivered": false,
+          "finalValue": 325,
+          "todayDate": "04/11/2023",
+          "localNumber": "."
+          },
+          {
+          "id": "24ffadaf-e114-4df3-8c2c-98e6fb28b7ab",
+          "clientName": "Alex",
+          "clientContact": "61999999999",
+          "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+          "localCep": "71735405",
+          "selectedDate": "13/04/2023",
+          "selectedItems": [
+          {
+          "qtd": "2",
+          "item": {
+          "id": 7,
+          "name": "Cadeirinha de alimentação P",
+          "value": 50
+          }
+          },
+          {
+          "qtd": "2",
+          "item": {
+          "id": 0,
+          "name": "Carrinho Tradicional",
+          "value": 75
+          }
+          },
+          {
+          "qtd": "1",
+          "item": {
+          "id": 10,
+          "name": "Almofada de amamentação",
+          "value": 30
+          }
+          }
+          ],
+          "totalValue": 280,
+          "discount": "5",
+          "freightage": "20",
+          "isDelivered": false,
+          "finalValue": 285,
+          "todayDate": "04/11/2023",
+          "localNumber": "."
+          },
+          {
+          "id": "d86b7f64-07a0-494e-8e8f-f074d080080f",
+          "clientName": "Alana",
+          "clientContact": "61999999999",
+          "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+          "localCep": "71735405",
+          "selectedDate": "12/04/2023",
+          "selectedItems": [
+          {
+          "qtd": "2",
+          "item": {
+          "id": 9,
+          "name": "Ninho",
+          "value": 40
+          }
+          },
+          {
+          "qtd": "1",
+          "item": {
+          "id": 5,
+          "name": "Moisés",
+          "value": 60
+          }
+          }
+          ],
+          "totalValue": 140,
+          "discount": "5",
+          "freightage": "20",
+          "isDelivered": false,
+          "finalValue": 155,
+          "todayDate": "04/11/2023",
+          "localNumber": "."
+          },
+          {
+          "id": "27baa641-c679-4daf-963a-8d416c43cd2f",
+          "clientName": "Roberta",
+          "clientContact": "61999999999",
+          "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+          "localCep": "71735405",
+          "selectedDate": "12/04/2023",
+          "selectedItems": [
+          {
+          "qtd": "2",
+          "item": {
+          "id": 2,
+          "name": "Carrinho de gêmeo",
+          "value": 120
+          }
+          },
+          {
+          "qtd": "1",
+          "item": {
+          "id": 12,
+          "name": "Colchão de berço padrão",
+          "value": 60
+          }
+          }
+          ],
+          "totalValue": 300,
+          "discount": "5",
+          "freightage": "10",
+          "isDelivered": false,
+          "finalValue": 305,
+          "todayDate": "04/11/2023",
+          "localNumber": "."
+          },
+          {
+          "id": "6a8da193-efa2-4e10-a5e4-51c2da45f047",
+          "clientName": "Rômulo",
+          "clientContact": "61999999999",
+          "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+          "localCep": "71735405",
+          "selectedDate": "12/04/2023",
+          "selectedItems": [
+          {
+          "qtd": "2",
+          "item": {
+          "id": 3,
+          "name": "Bebê conforto",
+          "value": 60
+          }
+          },
+          {
+          "qtd": "2",
+          "item": {
+          "id": 0,
+          "name": "Carrinho Tradicional",
+          "value": 75
+          }
+          }
+          ],
+          "totalValue": 270,
+          "discount": "5",
+          "freightage": "10",
+          "isDelivered": false,
+          "finalValue": 275,
+          "todayDate": "04/11/2023",
+          "localNumber": "."
+          },
+          {
+          "id": "0823ae8e-175f-485e-bb8e-a8df4ad2b33e",
+          "clientName": "Ricardo",
+          "clientContact": "61999999999",
+          "localName": "SQS 103 Bloco A, Asa Sul",
+          "localCep": "70342040",
+          "selectedDate": "05/04/2023",
+          "selectedItems": [
+          {
+          "qtd": "2",
+          "item": {
+          "id": 3,
+          "name": "Bebê conforto",
+          "value": 60
+          }
+          },
+          {
+          "qtd": "1",
+          "item": {
+          "id": 6,
+          "name": "Cadeirinha de descanso",
+          "value": 50
+          }
+          }
+          ],
+          "totalValue": 170,
+          "discount": "5",
+          "freightage": "10",
+          "isDelivered": false,
+          "finalValue": 175,
+          "todayDate": "04/11/2023",
+          "localNumber": "."
+          },
+          {
+          "id": "66266db8-f63a-4d00-9897-7e0978ae1e81",
+          "clientName": "Ana",
+          "clientContact": "61999999999",
+          "localName": "SQS 103 Bloco A, Asa Sul",
+          "localCep": "70342040",
+          "selectedDate": "03/04/2023",
+          "selectedItems": [
+          {
+          "qtd": "1",
+          "item": {
+          "id": 3,
+          "name": "Bebê conforto",
+          "value": 60
+          }
+          },
+          {
+          "qtd": "1",
+          "item": {
+          "id": 0,
+          "name": "Carrinho Tradicional",
+          "value": 75
+          }
+          }
+          ],
+          "totalValue": 135,
+          "discount": "5",
+          "freightage": "10",
+          "isDelivered": false,
+          "finalValue": 140,
+          "todayDate": "04/11/2023",
+          "localNumber": "."
+          },
+          {
+            "id": "c5efa898-7deb-4f99-986c-5f8a6ae78d94",
+            "clientName": "Renata",
+            "clientContact": "61999999999",
+            "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+            "localCep": "71735405",
+            "selectedDate": "28/07/2023",
+            "selectedItems": [
+            {
+            "qtd": "2",
+            "item": {
+            "id": 7,
+            "name": "Cadeirinha de alimentação P",
+            "value": 50
+            }
+            },
+            {
+            "qtd": "1",
+            "item": {
+            "id": 12,
+            "name": "Colchão de berço padrão",
+            "value": 60
+            }
+            }
+            ],
+            "totalValue": 160,
+            "discount": "5",
+            "freightage": "20",
+            "isDelivered": false,
+            "finalValue": 175,
+            "todayDate": "04/11/2023",
+            "localNumber": "."
+            },
+            {
+            "id": "4d9ca984-bbf1-45f7-b4fd-cb7c7ead9f68",
+            "clientName": "Nicolas",
+            "clientContact": "61999999999",
+            "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+            "localCep": "71735405",
+            "selectedDate": "28/07/2023",
+            "selectedItems": [
+            {
+            "qtd": "2",
+            "item": {
+            "id": 3,
+            "name": "Bebê conforto",
+            "value": 60
+            }
+            }
+            ],
+            "totalValue": 120,
+            "discount": "5",
+            "freightage": "10",
+            "isDelivered": false,
+            "finalValue": 125,
+            "todayDate": "04/11/2023",
+            "localNumber": "."
+            },
+            {
+            "id": "f9ea691d-0e32-4045-9b60-6bbd1740cc04",
+            "clientName": "Jessica",
+            "clientContact": "61999999999",
+            "localName": "SQS 103 Bloco A, Asa Sul",
+            "localCep": "70342070",
+            "selectedDate": "21/07/2023",
+            "selectedItems": [
+            {
+            "qtd": "2",
+            "item": {
+            "id": 3,
+            "name": "Bebê conforto",
+            "value": 60
+            }
+            },
+            {
+            "qtd": "1",
+            "item": {
+            "id": 6,
+            "name": "Cadeirinha de descanso",
+            "value": 50
+            }
+            },
+            {
+            "qtd": "2",
+            "item": {
+            "id": 4,
+            "name": "Berço portátil",
+            "value": 70
+            }
+            }
+            ],
+            "totalValue": 280,
+            "discount": "5",
+            "freightage": "10",
+            "isDelivered": false,
+            "finalValue": 285,
+            "todayDate": "04/11/2023",
+            "localNumber": "."
+            },
+            {
+            "id": "63ebcff7-34dd-4602-b163-27cc5b8bdedf",
+            "clientName": "jorge",
+            "clientContact": "61999999999",
+            "localName": "SQS 103 Bloco A, Asa Sul",
+            "localCep": "70342070",
+            "selectedDate": "20/07/2023",
+            "selectedItems": [
+            {
+            "qtd": "2",
+            "item": {
+            "id": 1,
+            "name": "Cadeirinha de carro",
+            "value": 70
+            }
+            },
+            {
+            "qtd": "1",
+            "item": {
+            "id": 2,
+            "name": "Carrinho de gêmeo",
+            "value": 120
+            }
+            }
+            ],
+            "totalValue": 260,
+            "discount": "5",
+            "freightage": "10",
+            "isDelivered": false,
+            "finalValue": 265,
+            "todayDate": "04/11/2023",
+            "localNumber": "."
+            },
+            {
+            "id": "d5c6a843-8f0a-46b2-8c96-07c213cbf21b",
+            "clientName": "Renata",
+            "clientContact": "61999999999",
+            "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+            "localCep": "71735405",
+            "selectedDate": "17/07/2023",
+            "selectedItems": [
+            {
+            "qtd": "2",
+            "item": {
+            "id": 7,
+            "name": "Cadeirinha de alimentação P",
+            "value": 50
+            }
+            },
+            {
+            "qtd": "1",
+            "item": {
+            "id": 12,
+            "name": "Colchão de berço padrão",
+            "value": 60
+            }
+            },
+            {
+            "qtd": "2",
+            "item": {
+            "id": 0,
+            "name": "Carrinho Tradicional",
+            "value": 75
+            }
+            }
+            ],
+            "totalValue": 280,
+            "discount": "5",
+            "freightage": "20",
+            "isDelivered": false,
+            "finalValue": 325,
+            "todayDate": "04/11/2023",
+            "localNumber": "."
+            },
+            {
+            "id": "24ffadaf-e114-4df3-8c2c-98e6fb28b7ab",
+            "clientName": "Alex",
+            "clientContact": "61999999999",
+            "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+            "localCep": "71735405",
+            "selectedDate": "13/07/2023",
+            "selectedItems": [
+            {
+            "qtd": "2",
+            "item": {
+            "id": 7,
+            "name": "Cadeirinha de alimentação P",
+            "value": 50
+            }
+            },
+            {
+            "qtd": "2",
+            "item": {
+            "id": 0,
+            "name": "Carrinho Tradicional",
+            "value": 75
+            }
+            },
+            {
+            "qtd": "1",
+            "item": {
+            "id": 10,
+            "name": "Almofada de amamentação",
+            "value": 30
+            }
+            }
+            ],
+            "totalValue": 280,
+            "discount": "5",
+            "freightage": "20",
+            "isDelivered": false,
+            "finalValue": 285,
+            "todayDate": "04/11/2023",
+            "localNumber": "."
+            },
+            {
+            "id": "d86b7f64-07a0-494e-8e8f-f074d080080f",
+            "clientName": "Alana",
+            "clientContact": "61999999999",
+            "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+            "localCep": "71735405",
+            "selectedDate": "12/07/2023",
+            "selectedItems": [
+            {
+            "qtd": "2",
+            "item": {
+            "id": 9,
+            "name": "Ninho",
+            "value": 40
+            }
+            },
+            {
+            "qtd": "1",
+            "item": {
+            "id": 5,
+            "name": "Moisés",
+            "value": 60
+            }
+            }
+            ],
+            "totalValue": 140,
+            "discount": "5",
+            "freightage": "20",
+            "isDelivered": false,
+            "finalValue": 155,
+            "todayDate": "04/11/2023",
+            "localNumber": "."
+            },
+            {
+            "id": "27baa641-c679-4daf-963a-8d416c43cd2f",
+            "clientName": "Roberta",
+            "clientContact": "61999999999",
+            "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+            "localCep": "71735405",
+            "selectedDate": "12/07/2023",
+            "selectedItems": [
+            {
+            "qtd": "2",
+            "item": {
+            "id": 2,
+            "name": "Carrinho de gêmeo",
+            "value": 120
+            }
+            },
+            {
+            "qtd": "1",
+            "item": {
+            "id": 12,
+            "name": "Colchão de berço padrão",
+            "value": 60
+            }
+            }
+            ],
+            "totalValue": 300,
+            "discount": "5",
+            "freightage": "10",
+            "isDelivered": false,
+            "finalValue": 305,
+            "todayDate": "04/11/2023",
+            "localNumber": "."
+            },
+            {
+            "id": "6a8da193-efa2-4e10-a5e4-51c2da45f047",
+            "clientName": "Rômulo",
+            "clientContact": "61999999999",
+            "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+            "localCep": "71735405",
+            "selectedDate": "12/07/2023",
+            "selectedItems": [
+            {
+            "qtd": "2",
+            "item": {
+            "id": 3,
+            "name": "Bebê conforto",
+            "value": 60
+            }
+            },
+            {
+            "qtd": "2",
+            "item": {
+            "id": 0,
+            "name": "Carrinho Tradicional",
+            "value": 75
+            }
+            }
+            ],
+            "totalValue": 270,
+            "discount": "5",
+            "freightage": "10",
+            "isDelivered": false,
+            "finalValue": 275,
+            "todayDate": "04/11/2023",
+            "localNumber": "."
+            },
+            {
+            "id": "0823ae8e-175f-485e-bb8e-a8df4ad2b33e",
+            "clientName": "Ricardo",
+            "clientContact": "61999999999",
+            "localName": "SQS 103 Bloco A, Asa Sul",
+            "localCep": "70342070",
+            "selectedDate": "05/07/2023",
+            "selectedItems": [
+            {
+            "qtd": "2",
+            "item": {
+            "id": 3,
+            "name": "Bebê conforto",
+            "value": 60
+            }
+            },
+            {
+            "qtd": "1",
+            "item": {
+            "id": 6,
+            "name": "Cadeirinha de descanso",
+            "value": 50
+            }
+            }
+            ],
+            "totalValue": 170,
+            "discount": "5",
+            "freightage": "10",
+            "isDelivered": false,
+            "finalValue": 175,
+            "todayDate": "04/11/2023",
+            "localNumber": "."
+            },
+            {
+            "id": "66266db8-f63a-4d00-9897-7e0978ae1e81",
+            "clientName": "Ana",
+            "clientContact": "61999999999",
+            "localName": "SQS 103 Bloco A, Asa Sul",
+            "localCep": "70342070",
+            "selectedDate": "03/07/2023",
+            "selectedItems": [
+            {
+            "qtd": "1",
+            "item": {
+            "id": 3,
+            "name": "Bebê conforto",
+            "value": 60
+            }
+            },
+            {
+            "qtd": "1",
+            "item": {
+            "id": 0,
+            "name": "Carrinho Tradicional",
+            "value": 75
+            }
+            }
+            ],
+            "totalValue": 135,
+            "discount": "5",
+            "freightage": "10",
+            "isDelivered": false,
+            "finalValue": 140,
+            "todayDate": "04/11/2023",
+            "localNumber": "."
+            },
+            {
+ "id": "c5efa898-7deb-4f99-986c-5f8a6ae78d94",
+ "clientName": "Renata",
+ "clientContact": "61999999999",
+ "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+ "localCep": "71735405",
+ "selectedDate": "28/12/2023",
+ "selectedItems": [
+ {
+ "qtd": "2",
+ "item": {
+ "id": 7,
+ "name": "Cadeirinha de alimentação P",
+ "value": 50
+ }
+ },
+ {
+ "qtd": "1",
+ "item": {
+ "id": 12,
+ "name": "Colchão de berço padrão",
+ "value": 60
+ }
+ }
+ ],
+ "totalValue": 160,
+ "discount": "5",
+ "freightage": "20",
+ "isDelivered": false,
+ "finalValue": 175,
+ "todayDate": "04/11/2023",
+ "localNumber": "."
+ },
+ {
+ "id": "4d9ca984-bbf1-45f7-b4fd-cb7c7ead9f68",
+ "clientName": "Nicolas",
+ "clientContact": "61999999999",
+ "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+ "localCep": "71735405",
+ "selectedDate": "28/12/2023",
+ "selectedItems": [
+ {
+ "qtd": "2",
+ "item": {
+ "id": 3,
+ "name": "Bebê conforto",
+ "value": 60
+ }
+ }
+ ],
+ "totalValue": 120,
+ "discount": "5",
+ "freightage": "10",
+ "isDelivered": false,
+ "finalValue": 125,
+ "todayDate": "04/11/2023",
+ "localNumber": "."
+ },
+ {
+ "id": "f9ea691d-0e32-4045-9b60-6bbd1740cc04",
+ "clientName": "Jessica",
+ "clientContact": "61999999999",
+ "localName": "SQS 103 Bloco A, Asa Sul",
+ "localCep": "70342120",
+ "selectedDate": "21/12/2023",
+ "selectedItems": [
+ {
+ "qtd": "2",
+ "item": {
+ "id": 3,
+ "name": "Bebê conforto",
+ "value": 60
+ }
+ },
+ {
+ "qtd": "1",
+ "item": {
+ "id": 6,
+ "name": "Cadeirinha de descanso",
+ "value": 50
+ }
+ },
+ {
+ "qtd": "2",
+ "item": {
+ "id": 4,
+ "name": "Berço portátil",
+ "value": 70
+ }
+ }
+ ],
+ "totalValue": 280,
+ "discount": "5",
+ "freightage": "10",
+ "isDelivered": false,
+ "finalValue": 285,
+ "todayDate": "04/11/2023",
+ "localNumber": "."
+ },
+ {
+ "id": "63ebcff7-34dd-4602-b163-27cc5b8bdedf",
+ "clientName": "jorge",
+ "clientContact": "61999999999",
+ "localName": "SQS 103 Bloco A, Asa Sul",
+ "localCep": "70342120",
+ "selectedDate": "20/12/2023",
+ "selectedItems": [
+ {
+ "qtd": "2",
+ "item": {
+ "id": 1,
+ "name": "Cadeirinha de carro",
+ "value": 70
+ }
+ },
+ {
+ "qtd": "1",
+ "item": {
+ "id": 2,
+ "name": "Carrinho de gêmeo",
+ "value": 120
+ }
+ }
+ ],
+ "totalValue": 260,
+ "discount": "5",
+ "freightage": "10",
+ "isDelivered": false,
+ "finalValue": 265,
+ "todayDate": "04/11/2023",
+ "localNumber": "."
+ },
+ {
+ "id": "d5c6a843-8f0a-46b2-8c96-07c213cbf21b",
+ "clientName": "Renata",
+ "clientContact": "61999999999",
+ "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+ "localCep": "71735405",
+ "selectedDate": "17/12/2023",
+ "selectedItems": [
+ {
+ "qtd": "2",
+ "item": {
+ "id": 7,
+ "name": "Cadeirinha de alimentação P",
+ "value": 50
+ }
+ },
+ {
+ "qtd": "1",
+ "item": {
+ "id": 12,
+ "name": "Colchão de berço padrão",
+ "value": 60
+ }
+ },
+ {
+ "qtd": "2",
+ "item": {
+ "id": 0,
+ "name": "Carrinho Tradicional",
+ "value": 75
+ }
+ }
+ ],
+ "totalValue": 280,
+ "discount": "5",
+ "freightage": "20",
+ "isDelivered": false,
+ "finalValue": 325,
+ "todayDate": "04/11/2023",
+ "localNumber": "."
+ },
+ {
+ "id": "24ffadaf-e114-4df3-8c2c-98e6fb28b7ab",
+ "clientName": "Alex",
+ "clientContact": "61999999999",
+ "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+ "localCep": "71735405",
+ "selectedDate": "13/12/2023",
+ "selectedItems": [
+ {
+ "qtd": "2",
+ "item": {
+ "id": 7,
+ "name": "Cadeirinha de alimentação P",
+ "value": 50
+ }
+ },
+ {
+ "qtd": "2",
+ "item": {
+ "id": 0,
+ "name": "Carrinho Tradicional",
+ "value": 75
+ }
+ },
+ {
+ "qtd": "1",
+ "item": {
+ "id": 10,
+ "name": "Almofada de amamentação",
+ "value": 30
+ }
+ }
+ ],
+ "totalValue": 280,
+ "discount": "5",
+ "freightage": "20",
+ "isDelivered": false,
+ "finalValue": 285,
+ "todayDate": "04/11/2023",
+ "localNumber": "."
+ },
+ {
+ "id": "d86b7f64-07a0-494e-8e8f-f074d080080f",
+ "clientName": "Alana",
+ "clientContact": "61999999999",
+ "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+ "localCep": "71735405",
+ "selectedDate": "12/12/2023",
+ "selectedItems": [
+ {
+ "qtd": "2",
+ "item": {
+ "id": 9,
+ "name": "Ninho",
+ "value": 40
+ }
+ },
+ {
+ "qtd": "1",
+ "item": {
+ "id": 5,
+ "name": "Moisés",
+ "value": 60
+ }
+ }
+ ],
+ "totalValue": 140,
+ "discount": "5",
+ "freightage": "20",
+ "isDelivered": false,
+ "finalValue": 155,
+ "todayDate": "04/11/2023",
+ "localNumber": "."
+ },
+ {
+ "id": "27baa641-c679-4daf-963a-8d416c43cd2f",
+ "clientName": "Roberta",
+ "clientContact": "61999999999",
+ "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+ "localCep": "71735405",
+ "selectedDate": "12/12/2023",
+ "selectedItems": [
+ {
+ "qtd": "2",
+ "item": {
+ "id": 2,
+ "name": "Carrinho de gêmeo",
+ "value": 120
+ }
+ },
+ {
+ "qtd": "1",
+ "item": {
+ "id": 12,
+ "name": "Colchão de berço padrão",
+ "value": 60
+ }
+ }
+ ],
+ "totalValue": 300,
+ "discount": "5",
+ "freightage": "10",
+ "isDelivered": false,
+ "finalValue": 305,
+ "todayDate": "04/11/2023",
+ "localNumber": "."
+ },
+ {
+ "id": "6a8da193-efa2-4e10-a5e4-51c2da45f047",
+ "clientName": "Rômulo",
+ "clientContact": "61999999999",
+ "localName": "SMPW Quadra 4 Conjunto 5, Park Way",
+ "localCep": "71735405",
+ "selectedDate": "12/12/2023",
+ "selectedItems": [
+ {
+ "qtd": "2",
+ "item": {
+ "id": 3,
+ "name": "Bebê conforto",
+ "value": 60
+ }
+ },
+ {
+ "qtd": "2",
+ "item": {
+ "id": 0,
+ "name": "Carrinho Tradicional",
+ "value": 75
+ }
+ }
+ ],
+ "totalValue": 270,
+ "discount": "5",
+ "freightage": "10",
+ "isDelivered": false,
+ "finalValue": 275,
+ "todayDate": "04/11/2023",
+ "localNumber": "."
+ },
+ {
+ "id": "0823ae8e-175f-485e-bb8e-a8df4ad2b33e",
+ "clientName": "Ricardo",
+ "clientContact": "61999999999",
+ "localName": "SQS 103 Bloco A, Asa Sul",
+ "localCep": "70342120",
+ "selectedDate": "05/12/2023",
+ "selectedItems": [
+ {
+ "qtd": "2",
+ "item": {
+ "id": 3,
+ "name": "Bebê conforto",
+ "value": 60
+ }
+ },
+ {
+ "qtd": "1",
+ "item": {
+ "id": 6,
+ "name": "Cadeirinha de descanso",
+ "value": 50
+ }
+ }
+ ],
+ "totalValue": 170,
+ "discount": "5",
+ "freightage": "10",
+ "isDelivered": false,
+ "finalValue": 175,
+ "todayDate": "04/11/2023",
+ "localNumber": "."
+ },
+ {
+ "id": "66266db8-f63a-4d00-9897-7e0978ae1e81",
+ "clientName": "Ana",
+ "clientContact": "61999999999",
+ "localName": "SQS 103 Bloco A, Asa Sul",
+ "localCep": "70342120",
+ "selectedDate": "03/12/2023",
+ "selectedItems": [
+ {
+ "qtd": "1",
+ "item": {
+ "id": 3,
+ "name": "Bebê conforto",
+ "value": 60
+ }
+ },
+ {
+ "qtd": "1",
+ "item": {
+ "id": 0,
+ "name": "Carrinho Tradicional",
+ "value": 75
+ }
+ }
+ ],
+ "totalValue": 135,
+ "discount": "5",
+ "freightage": "10",
+ "isDelivered": false,
+ "finalValue": 140,
+ "todayDate": "04/11/2023",
+ "localNumber": "."
+ }
+
+           
+         
+       
+   ]
 }
